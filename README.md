@@ -14,5 +14,5 @@ Analyze personal spending habits using data visualization.
 - Line Chart (Weekly Spending)
 
 ## Key Insights
-- Highest spending category: ___
-- Noticeable trend: ___
+- Highest spending category: Gym.
+- Noticeable trend: Increase in the expense at the weekend.
